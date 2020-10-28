@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oQYPQxh323Yp0Hb36T/2HFADtOJBiZQwO9UogqKFovfk7wVs5/KGYnBg8+nDG2DlTTqMhbG7lutVVw/nDMD+lQ==",
+  "dgSpecHash": "mvpHyN3THwd1TTZUv3z9incHANvDTOtlaGbdIs5juHqvYpKqDB6A1cW0EIvFa7HDH3RmNphqk9IlKcrKJnrV7A==",
   "success": true,
   "projectFilePath": "/Users/dmn/Projects/Tabbed/Tabbed/Tabbed.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "/Users/dmn/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/dmn/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/dmn/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
   ],
   "logs": []
 }

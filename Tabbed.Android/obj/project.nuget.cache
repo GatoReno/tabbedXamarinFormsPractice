@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D8NWT2eykd4fwqwnaR0zaKCy1BU12yf18u7BMB5G+PrkP90l34+PMBH8fzZDx5f+WgNJeCgLxvhvPmVxniexAw==",
+  "dgSpecHash": "73+ZZgo1FMN1vETsufQV4cLZyepNPNi0rEGox67nas3Al6rGvvOl0PnWQb7b4X+eVmxem5/5Wj05lV5dTwLOzQ==",
   "success": true,
   "projectFilePath": "/Users/dmn/Projects/Tabbed/Tabbed.Android/Tabbed.Android.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,7 @@
     "/Users/dmn/.nuget/packages/xamarin.android.support.versionedparcelable/28.0.0.3/xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "/Users/dmn/.nuget/packages/xamarin.android.support.viewpager/28.0.0.3/xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/dmn/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
   ],
   "logs": []
 }

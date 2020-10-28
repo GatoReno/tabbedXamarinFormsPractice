@@ -1,6 +1,42 @@
 ﻿<Properties StartupConfiguration="{137163C9-37B7-4F1D-BBBC-8446B70CBD8A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Tabbed FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Tabbed.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Tabbed.Android FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabbed/MyTabbedPage.xaml">
+    <Files>
+      <File FileName="Tabbed/App.xaml" Line="1" Column="1" />
+      <File FileName="Tabbed/MainPage.xaml" />
+      <File FileName="Tabbed/MyTabbedPage.xaml" Line="13" Column="1" />
+      <File FileName="Tabbed/MyTabbedPage.xaml.cs" />
+      <File FileName="Tabbed/TabViews/Page_ONE.xaml" />
+      <File FileName="Tabbed/TabViews/Page_ONE.xaml.cs" />
+      <File FileName="Tabbed/TabViews/Page_TWO.xaml" />
+      <File FileName="Tabbed/TabViews/Page_TWO.xaml.cs" />
+      <File FileName="Tabbed/TabViews/Page_THREE.xaml" />
+      <File FileName="Tabbed/TabViews/Page_THREE.xaml.cs" />
+      <File FileName="Tabbed/MainPage.xaml.cs" />
+      <File FileName="Tabbed/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tabbed" expanded="True">
+            <Node name="Tabbed" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MyTabbedPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Tabbed.Android" expanded="True" />
+            <Node name="Tabbed.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tabbed.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4CD3F0C2-D5D2-41F6-89F0-3BB09E386A25" />
+  <MonoDevelop.Ide.ItemProperties.Tabbed.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

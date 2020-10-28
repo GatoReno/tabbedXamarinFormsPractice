@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JecueKaYaGSej6jk8vjd1ZCh/r/BJnV/2nVAfY8/5TYgGNoetj79TIrj6TzHZxoyIrgAAZfsB/fOpyUfp69UXw==",
+  "dgSpecHash": "bayaLpKB0KlIMXIHpXLNtffL8JJNEE5knBBnciMe1EZSJt1n+QDWPt5HVne2f82AF5Fhj0nQVfbqubwXnYHWag==",
   "success": true,
   "projectFilePath": "/Users/dmn/Projects/Tabbed/Tabbed.iOS/Tabbed.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/dmn/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
   ],
   "logs": []
 }
